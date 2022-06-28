@@ -1,4 +1,1 @@
-instalação:
-
-pip install requests
-python xsscan.py
+<h2>Instalação</h2>
