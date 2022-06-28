@@ -2,3 +2,4 @@
 <br>
 <b>pip install requests</b><br>
 <b>python xsscan.py</b>
+<img src="https://i.imgur.com/ar6ovg6.png">
